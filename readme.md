@@ -15,7 +15,8 @@ Patika.dev - Veri Yapıları ve Algoritmalar - Insertion Sort Projesi
 - 2,6,16,22,27,18
 - 2,6,16,18,22,27
 
-- Big-O __(n²)__ 
+- Big-O gösterimini yazınız.
+- ##### O(n²) = O(6²) 
 
 - 18 sayısı average case kapsamındadır.
 - ---------------------------------------------------------------------------------------------------------------------------------------------------------
