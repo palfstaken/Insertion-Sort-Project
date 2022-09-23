@@ -1,32 +1,32 @@
 # Insertion-Sort-Project
 
-Patika.dev - Veri Yapıları ve Algoritmalar - Insertion Sort Projesi
+Patika.dev - Data Structures and Algorithms - Insertion Sort Project
 
 **[22,27,16,2,18,6]** -> Insertion Sort
 
-- Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-- Big-O gösterimini yazınız.
-- Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en    başında olması.
-- Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+- Write the stages of the above given sequence according to the sort type.
+- Write the Big-O-Notation.
+- Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are looking for is at the beginning of the series.
+- What case does the number 18 fall into after the array is sorted? Write down.
 
-## **Cevaplar:**
+## **Answers:**
 - 2,22,27,16,18,6
 - 2,6,22,27,16,18
 - 2,6,16,22,27,18
 - 2,6,16,18,22,27
 
-- Big-O gösterimi **O(n²) = O(6²)** 
+- Big-O-Notation is **O(n²) = O(6²)** 
 
-- 18 sayısı average case kapsamındadır.
+- The number 18 is included in the average case.
 - ---------------------------------------------------------------------------------------------------------------------------------------------------------
-- **[7,3,5,8,2,9,4,15,6]** dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+- **[7,3,5,8,2,9,4,15,6]** Write the first 4 steps of the array according to the Insertion Sort.
 
-- ## **Cevap:**
+- ## **Answer:**
 
 - **Adım 1:** *2,7,3,5,8,9,4,15,6*
 - **Adım 2:** *2,3,7,5,8,9,4,15,6*
 - **Adım 3:** *2,3,4,7,5,8,9,15,6*
 - **Adım 4:** *2,3,4,5,7,8,9,15,6*
 
-- [-->Patika Profilim](https://app.patika.dev/palf)
+- [-->My Patika Profile](https://app.patika.dev/palf)
 - [patika.dev](https://www.patika.dev/)
