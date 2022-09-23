@@ -23,10 +23,10 @@ Patika.dev - Data Structures and Algorithms - Insertion Sort Project
 
 - ## **Answer:**
 
-- **Adım 1:** *2,7,3,5,8,9,4,15,6*
-- **Adım 2:** *2,3,7,5,8,9,4,15,6*
-- **Adım 3:** *2,3,4,7,5,8,9,15,6*
-- **Adım 4:** *2,3,4,5,7,8,9,15,6*
+- **Step 1:** *2,7,3,5,8,9,4,15,6*
+- **Step 2:** *2,3,7,5,8,9,4,15,6*
+- **Step 3:** *2,3,4,7,5,8,9,15,6*
+- **Step 4:** *2,3,4,5,7,8,9,15,6*
 
 - [-->My Patika Profile](https://app.patika.dev/palf)
 - [patika.dev](https://www.patika.dev/)
